@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=Hi%20everyone&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=Hi%20everyone&text=Kevin%20Brinach&fontSize=90)
 
 🚀 **Senior Software Engineer & Technical Lead** with 7+ years of experience building scalable web and mobile applications.  
 I specialize in **React, React Native, Next.js, NestJS, Node.js, and AWS**, and I love designing systems that improve performance, reliability, and developer productivity.  
