@@ -7,8 +7,8 @@ I specialize in **React, React Native, Next.js, NestJS, Node.js, and AWS**, and 
 
 ## 🛠️ Tech Stack  
 
-- **Frontend:** React, React Native, Next.js, Vue, Nuxt, Expo, TailwindCSS, Tamagui  
-- **Backend:** Node.js, NestJS, GraphQL, Prisma  
+- **Frontend:** React, React Native, Next.js, Vue, Nuxt, Expo, TailwindCSS, Tamagui, MaterialUI  
+- **Backend:** Node.js, NestJS, GraphQL, Prisma, MySQL  
 - **Cloud & DevOps:** AWS (Lambda, S3, Pinpoint, SQS, SNS), Vercel  
 - **E-commerce:** Shopify, Sanity, Nacelle  
 - **Other:** TypeScript, MST, MST-GQL, Storybook, SASS, Redux, Vuex  
@@ -17,10 +17,11 @@ I specialize in **React, React Native, Next.js, NestJS, Node.js, and AWS**, and 
 
 ## 💡 What I Do  
 
+- 🌐 Develop **real-time applications** with GraphQL subscriptions, WebSockets & AWS services  
 - 🧩 Lead cross-functional teams to deliver **scalable, maintainable applications**  
 - ⚡ Improve developer workflows through **CI/CD pipelines & automation**  
 - 📦 Build **headless e-commerce platforms** with performance optimizations  
-- 📲 Design **BLE-enabled mobile systems** and real-time applications  
+- 📲 Design **BLE-enabled mobile systems**  
 - ☁️ Architect **serverless solutions on AWS** for speed & reliability  
 
 ---
@@ -28,21 +29,10 @@ I specialize in **React, React Native, Next.js, NestJS, Node.js, and AWS**, and 
 ## 📈 Highlights  
 
 - ✅ Reduced release cycles by **30%** with streamlined dev & deployment processes  
-- ✅ Improved inventory accuracy by **60%** with custom lifecycle management app  
+- ✅ Built real-time notification systems with AWS SNS, SQS & Pinpoint
+- ✅ Designed high-performance PDF generation workflows using AWS Lambda & S3
+- ✅ Developed BLE-enabled IoT mobile applications for live tire monitoring
 - ✅ Automated testing pipelines with Playwright & GitHub Actions, reducing QA time by **15%**  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinbrinach&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbrinach&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kevinbrinach&theme=radical" alt="GitHub Streak"/>
-</p>
 
 ---
 
